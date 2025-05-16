@@ -1,9 +1,15 @@
-- 👋 Hi, I’m Zaki
-- 👀 I’m interested in Game Development 
-- 🌱 I’m currently learning Unity 
-- 💞️ I’m looking to collaborate on Game Development
+# Hi, I'm Dzaki 👋  
+Unity Game Developer | AR/VR | Multiplayer | Mobile & Web Games  
 
-<!---
-dzkdani/dzkdani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎮 Passionate about building engaging game experiences with Unity (2D/3D), AR/VR apps, and multiplayer systems.  
+
+## 🛠 Skills  
+- Languages: C#, JavaScript, TypeScript, Dart (Flutter)  
+- Engines/Tools: Unity, Photon Fusion, AR Foundation, Git, Figma  
+
+## 🚀 Featured Projects  
+- **Explore Math** – Educational Math Game [Google Play Link]  
+- **Buto Beat** – 2D Endless Shooter [Itch.io Link]  
+- **GIZ VR Training** – VR Training for Solar Panel (B2B)  
+
+📫 [LinkedIn](https://linkedin.com/in/dzkdani) | [Itch.io](https://dzkdani.itch.io)
