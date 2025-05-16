@@ -1,15 +1,35 @@
-# Hi, I'm Dzaki 👋  
-Unity Game Developer | AR/VR | Multiplayer | Mobile & Web Games  
+# 👋 Hi, I'm Dzaki Adani  
 
-🎮 Passionate about building engaging game experiences with Unity (2D/3D), AR/VR apps, and multiplayer systems.  
+🎮 **Unity Game Developer | 2D/3D | Multiplayer | AR/VR | Web Games**  
 
-## 🛠 Skills  
-- Languages: C#, JavaScript, TypeScript, Dart (Flutter)  
-- Engines/Tools: Unity, Photon Fusion, AR Foundation, Git, Figma  
+I’m a passionate Game Developer and Designer with **3+ years of professional experience** working across indie studios, outsourcing projects, and B2B clients. I specialize in building engaging experiences using **Unity (2D & 3D)**, as well as developing **AR/VR applications** and **multiplayer prototypes**.  
 
-## 🚀 Featured Projects  
-- **Explore Math** – Educational Math Game [Google Play Link]  
-- **Buto Beat** – 2D Endless Shooter [Itch.io Link]  
-- **GIZ VR Training** – VR Training for Solar Panel (B2B)  
+---
 
-📫 [LinkedIn](https://linkedin.com/in/dzkdani) | [Itch.io](https://dzkdani.itch.io)
+## 🛠️ **Tech Stack**
+- **Languages:** C#, JavaScript, TypeScript, Dart (Flutter)  
+- **Game Engines:** Unity, Construct 2/3, Phaser  
+- **Tools & Services:** Git, Figma, Notion, Jira, Photon Fusion, AR Foundation, AdMob, IAP Integration  
+
+---
+
+## 🚀 **Featured Projects**
+- 🎮 [**Explore Math**](https://play.google.com/store/apps/details?id=com.LFourTech.ExploreMath) – Educational Math Game (Google Play)  
+- 🎮 [**Buto Beat**](https://dzkdani.itch.io/buto-beat) – 2D Endless Music Shooter (Game Jam)  
+- 🎮 [**Purring Post & Delivery**](https://dhaniy.itch.io/purring-post-and-delivery) – Narrative Management Game (Game Jam)  
+
+---
+
+## 📈 **Current Focus**
+- Advancing my skills in **3D game development** and **post-processing effects**.  
+- Exploring advanced **multiplayer networking solutions** with Photon Fusion.  
+- Creating impactful **AR/VR interactive experiences** for B2B clients.  
+
+---
+
+## 📫 **Let’s Connect!**
+- [LinkedIn](https://www.linkedin.com/in/dzkdani)  
+- [Itch.io Portfolio](https://dzkdani.itch.io)  
+- [Upwork Profile](https://www.upwork.com/freelancers/dzkdani)  
+
+*Feel free to reach out for collaborations, freelance projects, or just to talk about games!*  
