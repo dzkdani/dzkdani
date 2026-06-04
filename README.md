@@ -1,37 +1,44 @@
-# 👋 Hi, I'm Dzaki Adani  
+# 👋 Hi, I'm Dzaki Adani
+**Unity Game Engineer & Game Designer**  
+*5+ Years of Industry Experience | 2D & 3D | XR Development | Mobile & Web Systems*
 
-🎮 **Unity Game Developer | 2D/3D | Multiplayer | AR/VR | Web Games**  
-
-I’m a passionate Game Developer and Designer with **5+ years of professional experience** working across indie studios, outsourcing projects, and B2B clients. I specialize in building engaging experiences using **Unity (2D & 3D)**, as well as developing **AR/VR applications** and **multiplayer prototypes**.  
-
----
-
-## 🛠️ **Tech Stack**
-- **Languages:** C#, JavaScript, TypeScript, Dart (Flutter)  
-- **Game Engines:** Unity, Construct 2/3, PhaserJS, ThreeJS
-- **Game Stack Tools** Spine, Addressable, Photon Fusion, AR Foundation, AdMob, UnityAd
-- **Other Tools & Services:** Git, Figma, Notion, Jira, Trello   
+I am a passionate Game Developer and Designer with over 5 years of professional experience working across indie studios, outsourcing agencies, and B2B clients. I specialize in building highly optimized, clean, and scalable gameplay architecture using Unity (2D & 3D), as well as developing interactive AR/VR applications and multiplayer prototypes.
 
 ---
 
-## 🚀 **Featured Projects**
-- 🎮 [**Memories**](https://play.google.com/store/apps/details?id=com.agatestudio.ciayostories&hl=en_IN) – Visual Novel Book-App/Game (Google Play)  
-- 🎮 [**Explore Math**](https://play.google.com/store/apps/details?id=com.LFourTech.ExploreMath) – Educational Math Game (Google Play)  
-- 🎮 [**Buto Beat**](https://dzkdani.itch.io/buto-beat) – 2D Endless Music Shooter (Game Jam)  
-- 🎮 [**Purring Post & Delivery**](https://dhaniy.itch.io/purring-post-and-delivery) – Narrative Management Game (Game Jam)  
+### 🛠️ Technical Ecosystem
+
+*   **Languages:** C#, JavaScript, TypeScript, Dart (Flutter)
+*   **Engines & Frameworks:** Unity (URP/BiRP), Construct 2/3, PhaserJS, ThreeJS
+*   **Specialties & Tools:** Addressables & AssetBundles, REST API Integration, Git LFS, Git, Figma, Notion, Jira
+*   **XR & Network Stack:** AR Foundation (Vuforia), OpenXR, Photon Fusion
 
 ---
 
-## 📈 **Current Focus**
-- Advancing my skills in **3D game development** and **post-processing effects**.  
-- Exploring advanced **multiplayer networking solutions** with Photon Fusion.  
-- Creating impactful **AR/VR interactive experiences** for B2B clients.  
+### 🚀 Highlighted Repositories
+
+#### 🐱 [PurringPostGJPlus](https://github.com/dzkdani/PurringPostGJPlus)
+**Award-Nominated Narrative Management Game Base**  
+*Nominee for Best Pitch at GameJamPlus Indonesia 23/24.*
+*   **The Tech:** Built a robust, decoupled state-machine system to handle narrative progression and simulation loops.
+*   **Key Achievement:** Engineered clean UI-heavy data layouts optimized for multi-resolution screens.
+
+#### 🌟 [rto-paperMario-3D](https://github.com/dzkdani/rto-paperMario-3D)
+**Advanced 3D Graphics & Perspective Sandbox**  
+*   **The Tech:** An exploration into 3D environments, custom vertex transformations, and post-processing layers.
+*   **Key Achievement:** Implemented smooth 2D-sprite physics and camera logic native to a 3D world space.
+
+#### 📐 [math-adventure](https://github.com/dzkdani/math-adventure)
+**Educational Isometric Framework**  
+*   **The Tech:** Fully optimized dynamic asset delivery using Unity's Addressables system.
+*   **Key Achievement:** Managed memory overhead on mid-to-low tier mobile hardware via asynchronous asset streaming.
 
 ---
 
-## 📫 **Let’s Connect!**
-- [LinkedIn](https://www.linkedin.com/in/dzkdani)  
-- [Itch.io Portfolio](https://dzkdani.itch.io)  
-- [Upwork Profile](https://www.upwork.com/freelancers/dzkdani)  
+### 📈 Current Engineering Focus
+*   **Advanced Rendering:** Deep-diving into Unity 6 features, custom post-processing, and URP shader optimization.
+*   **Network Architecture:** Building scalable client-authoritative multiplayer modules via Photon Fusion.
 
-*Feel free to reach out for collaborations, freelance projects, or just to talk about games!*  
+### 📬 Let's Connect!
+*   💼 **[LinkedIn](https://linkedin.com/in/dzaki-adani)**
+*   🎮 **[Itch.io Portfolio](https://dzkdani.itch.io)**
