@@ -40,5 +40,5 @@ I am a passionate Game Developer and Designer with over 5 years of professional 
 *   **Network Architecture:** Building scalable client-authoritative multiplayer modules via Photon Fusion.
 
 ### 📬 Let's Connect!
-*   💼 **[LinkedIn](https://linkedin.com/in/dzaki-adani)**
+*   💼 **[LinkedIn](https://linkedin.com/in/dzkdani)**
 *   🎮 **[Itch.io Portfolio](https://dzkdani.itch.io)**
