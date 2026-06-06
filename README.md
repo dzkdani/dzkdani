@@ -17,7 +17,7 @@ I am a passionate Game Developer and Designer with over 5 years of professional 
 
 ### 🚀 Highlighted Repositories
 
-#### 🌊 [Far-From-Shore-Demo](https://github.com/dzkdani)
+#### 🌊 [Far-From-Shore-Demo](https://github.com/dzkdani/far-from-shore)
 **Data-Driven Narrative Survival Game**  
 *   **The Tech:** Engineered a modular state-management system using structured data layouts to handle complex player choices and action point (AP) allocation systems[cite: 1].
 *   **Key Achievement:** Optimized for WebGL deployment by implementing aggressive code stripping and asset compression, ensuring rapid browser loading times and instant gameplay access[cite: 1].
