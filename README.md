@@ -1,44 +1,43 @@
 # 👋 Hi, I'm Dzaki Adani
-**Unity Game Engineer & Game Designer**  
-*5+ Years of Industry Experience | 2D & 3D | XR Development | Mobile & Web Systems*
+**Web & Mobile Game Engineer | Game Designer**  
+*5+ Years of Industry Experience | Unity WebGL Optimization | HTML5 & 2D Game Systems*[cite: 1, 2]
 
-I am a passionate Game Developer and Designer with over 5 years of professional experience working across indie studios, outsourcing agencies, and B2B clients. I specialize in building highly optimized, clean, and scalable gameplay architecture using Unity (2D & 3D), as well as developing interactive AR/VR applications and multiplayer prototypes.
+I am a passionate Game Developer and Designer with over 5 years of professional experience working across indie studios, outsourcing agencies, and B2B clients[cite: 2]. I specialize in building highly optimized, clean, and scalable gameplay architecture. My current focus is delivering responsive and lightweight game experiences for web browsers (WebGL/HTML5) and mobile platforms, ensuring smooth performance even on low-end hardware.
 
 ---
 
 ### 🛠️ Technical Ecosystem
 
-*   **Languages:** C#, JavaScript, TypeScript, Dart (Flutter)
-*   **Engines & Frameworks:** Unity (URP/BiRP), Construct 2/3, PhaserJS, ThreeJS
-*   **Specialties & Tools:** Addressables & AssetBundles, REST API Integration, Git LFS, Git, Figma, Notion, Jira
-*   **XR & Network Stack:** AR Foundation (Vuforia), OpenXR, Photon Fusion
+*   **Languages:** C#, JavaScript, TypeScript, Dart (Flutter), HTML5
+*   **Engines & Frameworks:** Unity (WebGL Optimization/URP), PhaserJS, Construct 2/3
+*   **Specialties & Tools:** Addressables & AssetBundles, REST API Integration, Git LFS, Git, Figma, Notion[cite: 1]
+*   **Network & Backend:** WebSockets, Photon Fusion, Local/Remote Data Management[cite: 1]
 
 ---
 
 ### 🚀 Highlighted Repositories
 
-#### 🐱 [PurringPostGJPlus](https://github.com/dzkdani/PurringPostGJPlus)
-**Award-Nominated Narrative Management Game Base**  
-*Nominee for Best Pitch at GameJamPlus Indonesia 23/24.*
-*   **The Tech:** Built a robust, decoupled state-machine system to handle narrative progression and simulation loops.
-*   **Key Achievement:** Engineered clean UI-heavy data layouts optimized for multi-resolution screens.
+#### 🌊 [Far-From-Shore-Demo](https://github.com/dzkdani)
+**Data-Driven Narrative Survival Game**  
+*   **The Tech:** Engineered a modular state-management system using structured data layouts to handle complex player choices and action point (AP) allocation systems[cite: 1].
+*   **Key Achievement:** Optimized for WebGL deployment by implementing aggressive code stripping and asset compression, ensuring rapid browser loading times and instant gameplay access[cite: 1].
 
-#### 🌟 [rto-paperMario-3D](https://github.com/dzkdani/rto-paperMario-3D)
-**Advanced 3D Graphics & Perspective Sandbox**  
-*   **The Tech:** An exploration into 3D environments, custom vertex transformations, and post-processing layers.
-*   **Key Achievement:** Implemented smooth 2D-sprite physics and camera logic native to a 3D world space.
+#### 🚀 [G-Escape](https://github.com/dzkdani)
+**Fast-Paced Vertical Arcade Shooter**  
+*   **The Tech:** Developed a high-performance gameplay loop featuring precise collision detection and an efficient object pooling system for dynamic entities[cite: 1].
+*   **Key Achievement:** Focused heavily on game "feel"—delivering highly responsive input controls and fluid 60 FPS animations tailored for seamless casual web and mobile play[cite: 1].
 
 #### 📐 [math-adventure](https://github.com/dzkdani/math-adventure)
-**Educational Isometric Framework**  
-*   **The Tech:** Fully optimized dynamic asset delivery using Unity's Addressables system.
-*   **Key Achievement:** Managed memory overhead on mid-to-low tier mobile hardware via asynchronous asset streaming.
+**Educational Isometric Framework & Client Project**  
+*   **The Tech:** Implemented fully optimized dynamic asset delivery using Unity's Addressables system to handle modular map streaming[cite: 1, 2].
+*   **Key Achievement:** Significantly reduced initial build size and managed runtime memory overhead on mid-to-low tier hardware via asynchronous asset streaming[cite: 1].
 
 ---
 
 ### 📈 Current Engineering Focus
-*   **Advanced Rendering:** Deep-diving into Unity 6 features, custom post-processing, and URP shader optimization.
-*   **Network Architecture:** Building scalable client-authoritative multiplayer modules via Photon Fusion.
+*   **Web Game Optimization:** Refining WebGL deployment pipelines, memory profiling, and asset packaging to build ultra-lightweight browser games[cite: 1].
+*   **Lightweight Frameworks:** Deep-diving into modular game architecture using PhaserJS and native HTML5 Canvas configurations for instantaneous web deployment[cite: 1].
 
 ### 📬 Let's Connect!
-*   💼 **[LinkedIn](https://linkedin.com/in/dzkdani)**
-*   🎮 **[Itch.io Portfolio](https://dzkdani.itch.io)**
+*   💼 **[LinkedIn](https://linkedin.com/in/dzkdani)**[cite: 1]
+*   🎮 **[Itch.io Portfolio](https://dzkdani.itch.io)**[cite: 1]
