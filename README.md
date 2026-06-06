@@ -22,7 +22,7 @@ I am a passionate Game Developer and Designer with over 5 years of professional 
 *   **The Tech:** Engineered a modular state-management system using structured data layouts to handle complex player choices and action point (AP) allocation systems[cite: 1].
 *   **Key Achievement:** Optimized for WebGL deployment by implementing aggressive code stripping and asset compression, ensuring rapid browser loading times and instant gameplay access[cite: 1].
 
-#### 🚀 [G-Escape](https://github.com/dzkdani/g-escape)
+#### 🚀 [G-Escape](https://github.com/dzkdani/gescape)
 **Fast-Paced Vertical Arcade Shooter**  
 *   **The Tech:** Developed a high-performance gameplay loop featuring precise collision detection and an efficient object pooling system for dynamic entities[cite: 1].
 *   **Key Achievement:** Focused heavily on game "feel"—delivering highly responsive input controls and fluid 60 FPS animations tailored for seamless casual web and mobile play[cite: 1].
