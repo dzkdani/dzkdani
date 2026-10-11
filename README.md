@@ -1,6 +1,10 @@
 # Hi there, I'm Dzaki Adani 👋
 
-### Web & Mobile Game Engineer | Game Designer
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Game+Programmer+%7C+Game+Designer" alt="Typing SVG" />
+  </a>
+</div>
 
 I'm a web and mobile game engineer with over 5 years of professional experience across indie studios, outsourcing agencies, and B2B clients. I specialize in building highly optimized, clean, and scalable gameplay architecture, focused on responsive, lightweight games for browsers (WebGL/HTML5) and mobile that stay smooth even on low-end hardware.
 
@@ -35,6 +39,24 @@ I'm a web and mobile game engineer with over 5 years of professional experience 
 ### Tools & Workflow
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Git LFS](https://img.shields.io/badge/Git%20LFS-F64935?style=for-the-badge&logo=gitlfs&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dzkdani&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" width="50%" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzkdani&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" width="40%" alt="Top languages" />
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dzkdani/dzkdani/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution snake (dark)" />
+  <img src="https://raw.githubusercontent.com/dzkdani/dzkdani/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution snake (light)" />
+</div>
 
 ---
 
